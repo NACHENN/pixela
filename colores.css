@@ -1,0 +1,62 @@
+body {
+    display: flex;
+    justify-content: 10,10;
+    align-items: 10,10;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ff0000; 
+  }
+  
+  body {
+    display: flex;
+    justify-content:10,10;
+    align-items:10,10;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .circle2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #1e00ff; 
+  }
+  body {
+    display: flex;
+    justify-content:10,10;
+    align-items:10,10;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .circle3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #bfff00; 
+  }
+  body {
+    display: flex;
+    justify-content:10,10;
+    align-items:10,10;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .corazon.jpg {
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+  }
+ 
